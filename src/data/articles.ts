@@ -696,8 +696,7 @@ export const articlesData: Article[] = [
     keyTakeaways: [
       "Volunteering offers a fundamentally different vantage point: you aren't just attending the sessions, you are helping build the environment.",
       "Community events succeed through a balance of visible work (stage, schedule) and invisible work (coordination, hospitality, problem solving).",
-      "Open source contribution extends far beyond writing code or giving talks; it includes giving time, welcoming newcomers, and showing up.",
-      "The full-resolution WordCamp Bhopal 2025 group photo is archived and accessible on Google Drive."
+      "Open source contribution extends far beyond writing code or giving talks; it includes giving time, welcoming newcomers, and showing up."
     ],
     entities: [
       "WordCamp Bhopal",
@@ -709,14 +708,6 @@ export const articlesData: Article[] = [
       "WPKolhapur"
     ],
     sources: [
-      {
-        title: "WordCamp Bhopal 2025 Official Group Photo Archive",
-        publisher: "Google Drive High-Resolution Archive",
-        url: "https://drive.google.com/file/d/1-7_nshsf0iD2U-oKy0Nf57AvDbWhNUP5/view?usp=drive_link",
-        author: "WordCamp Bhopal Media & Photography Team",
-        publishedDate: "February 2025",
-        accessedDate: "March 2025"
-      },
       {
         title: "WordPress Bhopal Community Organization",
         publisher: "LinkedIn Community Organization",
@@ -744,8 +735,8 @@ export const articlesData: Article[] = [
         answer: "The volunteer team included Krishika Verma, Sanskriti Malviya, Pramanya Rajput, Taufiq Lohar, Srijan Prasad, Suhas Sutar, Chandra Prakash Ojha, Yash, Jaya Muvania, Roshni Rajani, Prathamesh Palve, and silent supporter Astha J."
       },
       {
-        question: "Where can attendees access the official WordCamp Bhopal 2025 group photo?",
-        answer: "The full-resolution photograph is available for viewing and download via Google Drive at: https://drive.google.com/file/d/1-7_nshsf0iD2U-oKy0Nf57AvDbWhNUP5/view?usp=drive_link."
+        question: "Where can attendees view the WordCamp Bhopal 2025 group photo?",
+        answer: "The official community and volunteer group photo is featured directly within this retrospective publication."
       }
     ],
     headings: [
@@ -758,7 +749,7 @@ export const articlesData: Article[] = [
       { id: "a-different-kind-of-contribution", text: "A Different Kind of Contribution", level: 2 },
       { id: "the-memories-ill-take-with-me", text: "The Memories I'll Take With Me", level: 2 },
       { id: "thank-you-wordcamp-bhopal", text: "Thank You, WordCamp Bhopal 💙", level: 2 },
-      { id: "wordcamp-bhopal-2025-group-photo", text: "WordCamp Bhopal 2025 — Group Photo & Download", level: 2 }
+      { id: "wordcamp-bhopal-2025-group-photo", text: "WordCamp Bhopal 2025 — Official Group Photo", level: 2 }
     ],
     contentHtml: `
       <section id="introduction">
@@ -914,24 +905,6 @@ export const articlesData: Article[] = [
         <p style="text-align: center; font-style: italic; color: var(--text-tertiary); font-size: 0.9rem; margin-top: -15px; margin-bottom: 25px;">
           Photo: WordCamp Bhopal 2025 community/team group photo
         </p>
-
-        <div class="editorial-callout info" style="text-align: center; padding: 28px 20px; margin: 30px 0;">
-          <span class="callout-label">Official Google Drive Master File</span>
-          <h3 style="margin: 4px 0 10px 0; font-size: 1.2rem;">Download High-Resolution Community Photograph</h3>
-          <p style="margin-bottom: 18px; color: var(--text-secondary); font-size: 0.95rem;">
-            Use the provided Google Drive link below to view or download the full-resolution master photo:
-          </p>
-          <a
-            href="https://drive.google.com/file/d/1-7_nshsf0iD2U-oKy0Nf57AvDbWhNUP5/view?usp=drive_link"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="btn btn-primary btn-lg"
-            style="display: inline-flex; align-items: center; gap: 8px; text-decoration: none;"
-          >
-            <span>Open Photo on Google Drive</span>
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-          </a>
-        </div>
       </section>
     `,
     seo: {
