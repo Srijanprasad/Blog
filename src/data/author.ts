@@ -24,9 +24,9 @@ export const authorData: Author = {
   slug: "srijan-prasad",
   handle: "@Ushan_0",
   email: "srijanprasad2006@gmail.com",
-  role: "Developer, Open Source Contributor & Knowledge Architect",
+  role: "Final-Year CSE Student, Developer & Knowledge Architect",
   isPlaceholderBio: false,
-  biography: "Developer, open-source contributor, and digital knowledge architect. Speaker on WordPress Security & Cleanup at WordCamp Bhopal 2023, and Pattern Table Lead at WordCamp Bhopal 2025. Writing on Full Site Editing (FSE), modern web architecture, generative search optimization (GEO/AEO), and personal knowledge systems.",
+  biography: "Final-year Computer Science & Engineering (CSE) student at TIT Group of Institutions (Bhopal), developer, and open-source contributor. Speaker on WordPress Security & Cleanup at WordCamp Bhopal 2023, Pattern Table Lead at WordCamp Bhopal 2025, and student participant in enterprise technology forums. Writing on Full Site Editing (FSE), modern web architecture, generative search optimization (GEO/AEO), enterprise readiness, and personal knowledge systems.",
   avatar: "/srijan-prasad-avatar.png",
   photo: "/srijan-prasad-photo.jpg",
   socials: {
@@ -40,6 +40,7 @@ export const authorData: Author = {
     "Full Site Editing (FSE)",
     "Generative Engine Optimization",
     "Software Engineering",
+    "Industry Readiness & Leadership",
     "Knowledge Architecture"
   ]
 };

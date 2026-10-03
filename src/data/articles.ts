@@ -939,12 +939,353 @@ export const articlesData: Article[] = [
       metaDescription: "Srijan Prasad's personal reflections on volunteering at WordCamp Bhopal 2025: seeing the event from the other side, the volunteer team, community lessons, and official group photo.",
       robots: "index, follow"
     }
+  },
+  {
+    id: "art-capgemini-tit-industry-interaction",
+    slug: "an-interaction-that-gave-me-a-better-perspective-on-the-industry-capgemini-tit",
+    title: "An Interaction That Gave Me a Better Perspective on the Industry: Capgemini × TIT Group of Institutions",
+    dek: "Reflections from a final-year CSE student on bridging the gap between academic computer science and enterprise expectations: communication, adaptability, problem-solving, and continuous learning from Capgemini leadership at TIT Group of Institutions.",
+    categorySlug: "systems-engineering",
+    topicSlugs: ["systems-engineering", "editorial-systems"],
+    authorId: "author-srijan-prasad",
+    publishedAt: "2025-09-12T10:00:00Z",
+    updatedAt: "2025-09-12T10:00:00Z",
+    readingTimeMinutes: 4,
+    featuredImage: "/capgemini-tit-industry-interaction.jpg",
+    featuredImageAlt: "Capgemini Leadership Team interacting with final-year CSE students at TIT Group of Institutions, Bhopal",
+    isFeatured: true,
+    isPopular: true,
+    aeoDirectAnswer: "During an enterprise leadership interaction session between Capgemini and TIT Group of Institutions (Bhopal), final-year Computer Science Engineering students gained critical industry perspectives: modern enterprise engineering values adaptability, cross-functional communication, and foundational problem-solving far above static syntax knowledge. To become truly industry-ready, students must treat learning as an ongoing, iterative discipline as technology continuously evolves.",
+    keyTakeaways: [
+      "Enterprise engineering expectations transcend specific programming languages or framework trends; companies look for adaptable problem solvers who can navigate evolving tools.",
+      "Clear communication and emotional intelligence are core technical superpowers that determine how effectively an engineer collaborates in distributed enterprise teams.",
+      "Continuous learning is non-negotiable: graduating engineers must develop the curiosity and discipline to self-upgrade as AI, cloud systems, and paradigms shift.",
+      "Direct interactions between corporate leaders and engineering students provide practical roadmaps that academic curricula alone cannot impart.",
+      "Srijan Prasad and fellow final-year CSE students received firsthand mentorship from Capgemini leaders Altamash Qureshi, Amit Nayak, Punit Santani, Deevith Rao, and Vaibhav Deshpande at TIT Group of Institutions."
+    ],
+    entities: [
+      "Capgemini",
+      "TIT Group of Institutions",
+      "Technocrats Group of Institutions",
+      "Computer Science and Engineering",
+      "Industry Readiness",
+      "Software Engineering",
+      "Continuous Learning",
+      "Problem-Solving",
+      "Adaptability",
+      "Enterprise Leadership"
+    ],
+    sources: [
+      {
+        title: "An Interaction That Gave Me a Better Perspective on the Industry | Capgemini × TIT Group of Institutions",
+        publisher: "LinkedIn",
+        url: "https://lnkd.in/p/dW4yDf7i",
+        author: "Srijan Prasad",
+        publishedDate: "2025",
+        accessedDate: "2026-10-04"
+      },
+      {
+        title: "Capgemini Official Global Community & Corporate Profile",
+        publisher: "Capgemini",
+        url: "https://www.linkedin.com/company/capgemini/",
+        author: "Capgemini Global",
+        publishedDate: "2025",
+        accessedDate: "2026-10-04"
+      },
+      {
+        title: "Technocrats Group of Institutions (TIT Bhopal) Official Profile",
+        publisher: "TIT Group of Institutions",
+        url: "https://www.linkedin.com/school/technocrats-group-of-institutions-bhopal/",
+        author: "TIT Group of Institutions",
+        publishedDate: "2025",
+        accessedDate: "2026-10-04"
+      },
+      {
+        title: "Altamash Qureshi — Capgemini Leadership Profile",
+        publisher: "LinkedIn",
+        url: "https://www.linkedin.com/in/altamash-qureshi-ba9aa71a/",
+        author: "Altamash Qureshi",
+        publishedDate: "2025",
+        accessedDate: "2026-10-04"
+      },
+      {
+        title: "Amit Nayak — Capgemini Leadership Profile",
+        publisher: "LinkedIn",
+        url: "https://www.linkedin.com/in/amit-nayak-aba747a/",
+        author: "Amit Nayak",
+        publishedDate: "2025",
+        accessedDate: "2026-10-04"
+      },
+      {
+        title: "Punit Santani — Capgemini Leadership Profile",
+        publisher: "LinkedIn",
+        url: "https://www.linkedin.com/in/punit-santani-930bb51/",
+        author: "Punit Santani",
+        publishedDate: "2025",
+        accessedDate: "2026-10-04"
+      },
+      {
+        title: "Deevith Rao — Capgemini Leadership Profile",
+        publisher: "LinkedIn",
+        url: "https://www.linkedin.com/in/deevith-rao/",
+        author: "Deevith Rao",
+        publishedDate: "2025",
+        accessedDate: "2026-10-04"
+      },
+      {
+        title: "Vaibhav Deshpande — Capgemini Leadership Profile",
+        publisher: "LinkedIn",
+        url: "https://www.linkedin.com/in/vaibhavdeshpande01/",
+        author: "Vaibhav Deshpande",
+        publishedDate: "2025",
+        accessedDate: "2026-10-04"
+      }
+    ],
+    faqs: [
+      {
+        question: "What was the focus of the Capgemini interaction at TIT Group of Institutions?",
+        answer: "The session went beyond general technology and recruitment pitches to deliver an authentic perspective on what enterprise engineering teams expect from graduating computer science students: communication, adaptability, problem-solving under ambiguity, and an unshakeable commitment to continuous learning."
+      },
+      {
+        question: "Who from Capgemini took part in mentoring the students?",
+        answer: "The interactive panel featured senior leaders Altamash Qureshi, Amit Nayak, Punit Santani, Deevith Rao, and Vaibhav Deshpande, who generously shared their professional journeys and real-world enterprise expectations with students."
+      },
+      {
+        question: "Why are soft skills and adaptability so crucial for modern software engineers?",
+        answer: "Because coding syntax and frameworks change rapidly. An engineer who excels at cross-functional communication, questions assumptions, breaks complex problems down methodically, and adapts to new toolchains delivers far greater enterprise impact than someone with narrow, static technical knowledge."
+      }
+    ],
+    headings: [
+      { id: "bridging-academic-and-enterprise-realities", text: "Bridging Academic and Enterprise Realities", level: 2 },
+      { id: "four-foundations-of-industry-readiness", text: "The Four Foundations of Industry Readiness", level: 2 },
+      { id: "gratitude-to-capgemini-leadership", text: "Gratitude to the Capgemini Leadership Team", level: 2 },
+      { id: "empowering-students-at-tit", text: "Empowering Students at TIT Group of Institutions", level: 2 },
+      { id: "the-road-ahead-final-year-reflection", text: "The Road Ahead: Building an Enduring Mindset", level: 2 },
+      { id: "original-linkedin-post-and-discussion", text: "Original LinkedIn Post & Community Discussion", level: 2 }
+    ],
+    contentHtml: `
+      <section id="bridging-academic-and-enterprise-realities">
+        <p class="article-lead">
+          Today’s interaction with the leadership team from <a href="https://www.linkedin.com/company/capgemini/" target="_blank" rel="noopener noreferrer" class="source-link"><strong>Capgemini</strong></a> at <a href="https://www.linkedin.com/school/technocrats-group-of-institutions-bhopal/" target="_blank" rel="noopener noreferrer" class="source-link"><strong>TIT Group of Institutions</strong></a> was a deeply valuable experience, especially as a final-year Computer Science &amp; Engineering (CSE) student preparing to step into the professional world.
+        </p>
+
+        <p>
+          What stood out to me was that the session went far beyond standard technology overviews or routine career placement advice. It gave us a practical, grounded perspective on what the industry actually expects from graduating students and how vital it is to keep learning and adapting as the technology landscape continues to evolve at unprecedented speed.
+        </p>
+
+        <div style="margin: 28px 0; padding: 24px; background-color: var(--bg-surface); border-left: 4px solid var(--accent-primary); border-radius: var(--radius-sm); box-shadow: var(--shadow-sm);">
+          <p style="margin: 0; font-size: 1.08rem; font-style: italic; color: var(--text-primary); line-height: 1.7;">
+            "The transition from university coursework to professional software engineering is not merely about writing more lines of code. It is about understanding the broader ecosystem—how systems scale, how teams collaborate, and how engineers continuously adapt to solve real human problems."
+          </p>
+        </div>
+      </section>
+
+      <section id="four-foundations-of-industry-readiness">
+        <h2>The Four Foundations of Industry Readiness</h2>
+        <p>
+          The discussion around communication, adaptability, problem-solving, and continuous learning was particularly insightful. It provided a rare mirror to reflect honestly on the competencies I need to strengthen before beginning my professional engineering journey:
+        </p>
+
+        <div style="display: grid; grid-template-columns: 1fr; gap: 16px; margin: 24px 0;">
+          <div style="padding: 20px; background-color: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-md);">
+            <h3 style="margin: 0 0 8px 0; font-size: 1.15rem; color: var(--text-primary); display: flex; align-items: center; gap: 8px;">
+              <span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: var(--accent-primary);"></span>
+              1. Communication as a Technical Superpower
+            </h3>
+            <p style="margin: 0; font-size: 0.95rem; color: var(--text-secondary); line-height: 1.65;">
+              In enterprise settings, the best code is worthless if the rationale behind it cannot be communicated clearly to teammates, product managers, and stakeholders. Clear written documentation, active listening, and articulated architectural tradeoffs are core engineering traits.
+            </p>
+          </div>
+
+          <div style="padding: 20px; background-color: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-md);">
+            <h3 style="margin: 0 0 8px 0; font-size: 1.15rem; color: var(--text-primary); display: flex; align-items: center; gap: 8px;">
+              <span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: var(--accent-secondary);"></span>
+              2. Adaptability in Shifting Tech Landscapes
+            </h3>
+            <p style="margin: 0; font-size: 0.95rem; color: var(--text-secondary); line-height: 1.65;">
+              Technologies, frameworks, and generative AI toolchains will continually change throughout our careers. What stays constant is an engineer's willingness to step outside their comfort zone, embrace unfamiliar paradigms, and adapt swiftly.
+            </p>
+          </div>
+
+          <div style="padding: 20px; background-color: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-md);">
+            <h3 style="margin: 0 0 8px 0; font-size: 1.15rem; color: var(--text-primary); display: flex; align-items: center; gap: 8px;">
+              <span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: var(--accent-emerald);"></span>
+              3. Rigorous Problem-Solving Under Constraints
+            </h3>
+            <p style="margin: 0; font-size: 0.95rem; color: var(--text-secondary); line-height: 1.65;">
+              Academic problems often come with clean, predefined inputs and outputs. Enterprise problems are messy, ambiguous, and subject to latency, cost, and security constraints. Developing a structured, iterative problem-solving mindset is essential.
+            </p>
+          </div>
+
+          <div style="padding: 20px; background-color: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-md);">
+            <h3 style="margin: 0 0 8px 0; font-size: 1.15rem; color: var(--text-primary); display: flex; align-items: center; gap: 8px;">
+              <span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: var(--accent-warm);"></span>
+              4. Continuous Learning as a Daily Habit
+            </h3>
+            <p style="margin: 0; font-size: 0.95rem; color: var(--text-secondary); line-height: 1.65;">
+              Graduation is not the finish line of education; it is the starting gate. Cultivating curiosity, reading technical documentation, experimenting with side architectures, and learning from peers must remain lifelong disciplines.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section id="gratitude-to-capgemini-leadership">
+        <h2>Gratitude to the Capgemini Leadership Team</h2>
+        <p>
+          A sincere and heartfelt thank you to the distinguished leaders from Capgemini who took the time to interact with us, share their candid experiences, and answer our questions with humility and depth:
+        </p>
+
+        <div style="display: flex; flex-wrap: wrap; gap: 12px; margin: 24px 0;">
+          <a
+            href="https://www.linkedin.com/in/altamash-qureshi-ba9aa71a/"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="social-link-pill"
+            style="background-color: var(--bg-surface); padding: 8px 16px; border: 1px solid var(--border-light);"
+          >
+            <span>Altamash Qureshi Sir</span>
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+          </a>
+
+          <a
+            href="https://www.linkedin.com/in/amit-nayak-aba747a/"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="social-link-pill"
+            style="background-color: var(--bg-surface); padding: 8px 16px; border: 1px solid var(--border-light);"
+          >
+            <span>Amit Nayak Sir</span>
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+          </a>
+
+          <a
+            href="https://www.linkedin.com/in/punit-santani-930bb51/"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="social-link-pill"
+            style="background-color: var(--bg-surface); padding: 8px 16px; border: 1px solid var(--border-light);"
+          >
+            <span>Punit Santani Sir</span>
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+          </a>
+
+          <a
+            href="https://www.linkedin.com/in/deevith-rao/"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="social-link-pill"
+            style="background-color: var(--bg-surface); padding: 8px 16px; border: 1px solid var(--border-light);"
+          >
+            <span>Deevith Rao Sir</span>
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+          </a>
+
+          <a
+            href="https://www.linkedin.com/in/vaibhavdeshpande01/"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="social-link-pill"
+            style="background-color: var(--bg-surface); padding: 8px 16px; border: 1px solid var(--border-light);"
+          >
+            <span>Vaibhav Deshpande Sir</span>
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+          </a>
+        </div>
+
+        <p>
+          Hearing firsthand narratives regarding how global consulting and engineering practices navigate technological transformations, client delivery pressures, and talent development provided invaluable perspective that cannot be found in textbooks.
+        </p>
+      </section>
+
+      <section id="empowering-students-at-tit">
+        <h2>Empowering Students at TIT Group of Institutions</h2>
+        <p>
+          I am deeply grateful to <a href="https://www.linkedin.com/school/technocrats-group-of-institutions-bhopal/" target="_blank" rel="noopener noreferrer" class="source-link"><strong>TIT Group of Institutions</strong></a> for consistently organizing high-impact interactions that bridge the gap between academic education and corporate reality.
+        </p>
+        <p>
+          Providing students with the opportunity to engage directly with industry veterans shapes our aspirations, grounds our career choices, and demystifies what it truly takes to succeed in today's software engineering market.
+        </p>
+      </section>
+
+      <section id="the-road-ahead-final-year-reflection">
+        <h2>The Road Ahead: Building an Enduring Mindset</h2>
+        <p>
+          As I progress through my final year in Computer Science &amp; Engineering, sessions like this act as an intellectual compass. They remind me that technical expertise, while fundamental, must be paired with:
+        </p>
+
+        <ul class="editorial-list">
+          <li><strong>Humility:</strong> Acknowledging what I do not know and remaining eager to learn from senior mentors and peers alike.</li>
+          <li><strong>Ownership:</strong> Taking full accountability for the reliability, clarity, and security of the code and documentation I produce.</li>
+          <li><strong>Curiosity:</strong> Constantly investigating new architectures—whether Full Site Editing in WordPress, Generative Engine Optimization, or semantic retrieval graphs.</li>
+        </ul>
+
+        <p>
+          Taking back valuable lessons, fresh motivation, and a clearer perspective on what it means to become truly industry-ready. 🚀
+        </p>
+      </section>
+
+      <section id="original-linkedin-post-and-discussion">
+        <h2>Original LinkedIn Post &amp; Community Discussion</h2>
+        <p>
+          This reflection was originally shared with the professional community on LinkedIn. You can explore the original update, join the conversation, and connect with fellow students and industry professionals:
+        </p>
+
+        <div style="margin: 24px 0; padding: 24px; background-color: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-md); display: flex; flex-direction: column; gap: 16px;">
+          <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px;">
+            <div>
+              <span style="font-size: 0.8rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: var(--accent-primary);">
+                Verified LinkedIn Article &amp; Update
+              </span>
+              <h3 style="margin: 4px 0 0 0; font-size: 1.15rem;">
+                An Interaction That Gave Me a Better Perspective on the Industry
+              </h3>
+            </div>
+            <a
+              href="https://lnkd.in/p/dW4yDf7i"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="btn btn-primary"
+              style="display: inline-flex; align-items: center; gap: 8px;"
+            >
+              <span>View Post on LinkedIn</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+            </a>
+          </div>
+
+          <div style="display: flex; flex-wrap: wrap; gap: 8px; padding-top: 12px; border-top: 1px solid var(--border-light);">
+            <span class="topic-tag">#Capgemini</span>
+            <span class="topic-tag">#IndustryInteraction</span>
+            <span class="topic-tag">#IndustryExposure</span>
+            <span class="topic-tag">#CareerGrowth</span>
+            <span class="topic-tag">#LeadershipInteraction</span>
+            <span class="topic-tag">#Learning</span>
+            <span class="topic-tag">#CSE</span>
+            <span class="topic-tag">#TIT</span>
+            <span class="topic-tag">#StudentDevelopment</span>
+          </div>
+        </div>
+      </section>
+    `,
+    seo: {
+      metaTitle: "An Interaction That Gave Me a Better Perspective on the Industry: Capgemini × TIT | Srijan Prasad",
+      metaDescription: "Final-year CSE student reflections on the Capgemini leadership interaction at TIT Group of Institutions: adaptability, communication, problem-solving, and industry readiness.",
+      robots: "index, follow"
+    }
   }
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {
   if (slug === "wordcamp-bhopal-2025-pattern-table-lead-open-source-community") {
     return articlesData.find((a) => a.slug === "my-first-experience-as-a-volunteer-at-wordcamp-bhopal-2025");
+  }
+  if (
+    slug === "capgemini-tit" ||
+    slug === "capgemini-tit-industry-interaction" ||
+    slug === "capgemini-tit-group-of-institutions"
+  ) {
+    return articlesData.find(
+      (a) => a.slug === "an-interaction-that-gave-me-a-better-perspective-on-the-industry-capgemini-tit"
+    );
   }
   return articlesData.find((a) => a.slug === slug);
 }

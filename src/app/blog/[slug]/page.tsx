@@ -22,9 +22,17 @@ interface ArticlePageProps {
 }
 
 export async function generateStaticParams() {
-  return articlesData.map((article) => ({
+  const primarySlugs = articlesData.map((article) => ({
     slug: article.slug
   }));
+
+  const aliasSlugs = [
+    { slug: "wordcamp-bhopal-2025-pattern-table-lead-open-source-community" },
+    { slug: "capgemini-tit" },
+    { slug: "capgemini-tit-industry-interaction" }
+  ];
+
+  return [...primarySlugs, ...aliasSlugs];
 }
 
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
