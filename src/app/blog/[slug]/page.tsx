@@ -29,7 +29,10 @@ export async function generateStaticParams() {
   const aliasSlugs = [
     { slug: "wordcamp-bhopal-2025-pattern-table-lead-open-source-community" },
     { slug: "capgemini-tit" },
-    { slug: "capgemini-tit-industry-interaction" }
+    { slug: "capgemini-tit-industry-interaction" },
+    { slug: "pewdiepie-openai-ban" },
+    { slug: "pewdiepie-local-ai" },
+    { slug: "openai-pewdiepie-distillation" }
   ];
 
   return [...primarySlugs, ...aliasSlugs];
