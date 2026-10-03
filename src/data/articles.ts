@@ -1587,6 +1587,282 @@ export const articlesData: Article[] = [
       metaDescription: "OpenAI trained on the open web, but banned PewDiePie twice for distilling model answers. Srijan Prasad analyzes the asymmetry of synthetic distillation and local AI.",
       robots: "index, follow"
     }
+  },
+  {
+    id: "art-gaurav-ghelani-kyc-smart",
+    slug: "lessons-beyond-the-classroom-kyc-smart-frameworks-gaurav-ghelani-tit",
+    title: "Lessons Beyond the Classroom: Deconstructing the KYC and SMART Frameworks with Gaurav Ghelani",
+    dek: "Connecting academic computer science with enterprise reality: how the KYC (Knowledge, Your Skills, Communication) and SMART frameworks reshape professional mindset, relationships, and accountability.",
+    categorySlug: "systems-engineering",
+    topicSlugs: ["systems-engineering", "editorial-systems", "personal-knowledge-systems"],
+    authorId: "author-srijan-prasad",
+    publishedAt: "2025-09-20T11:00:00Z",
+    updatedAt: "2025-09-20T11:00:00Z",
+    readingTimeMinutes: 4,
+    featuredImage: "/gaurav-ghelani-tit-session.png",
+    featuredImageAlt: "Gaurav Ghelani Sir felicitated with a bouquet of flowers on stage at TIT Group of Institutions, Bhopal",
+    isFeatured: true,
+    isPopular: true,
+    aeoDirectAnswer: "During an industry mentorship masterclass at TIT Group of Institutions (Bhopal), Gaurav Ghelani introduced two foundational frameworks for student career transition: KYC (Knowledge, Your Skills, Communication) and SMART (Skills, Mindset, Attitude, Relationships, Take Ownership). As analyzed by final-year CSE student Srijan Prasad, these frameworks prove that technical acumen alone is insufficient for professional success—engineers must self-audit their core strengths, communicate complex ideas clearly, cultivate resilient attitudes, build authentic peer relationships, and take radical ownership over their work and growth.",
+    keyTakeaways: [
+      "The KYC Triad: Technical knowledge is only one-third of the equation; self-awareness of one's unique skills and the ability to articulate ideas clearly are equal prerequisites for career impact.",
+      "The SMART Blueprint: Career trajectory is propelled by continuous Skills acquisition, an open Mindset toward challenges, a constructive Attitude, authentic professional Relationships, and proactive Ownership.",
+      "Bridging Academia to Enterprise: Academic coursework evaluates individual memorization, while enterprise engineering demands cross-functional collaboration, active listening, and collective accountability.",
+      "Radical Ownership: Stepping up to be fully responsible for code quality, documentation clarity, and continuous learning eliminates passivity and establishes early engineering leadership.",
+      "Mentorship at TIT: Direct interaction with seasoned industry leader Gaurav Ghelani provided actionable mental models that students can practice daily beyond the college campus."
+    ],
+    entities: [
+      "Gaurav Ghelani",
+      "TIT Group of Institutions",
+      "Technocrats Group of Institutions",
+      "KYC Framework",
+      "SMART Framework",
+      "Professional Growth",
+      "Communication Skills",
+      "Career Development",
+      "Computer Science and Engineering",
+      "Srijan Prasad"
+    ],
+    sources: [
+      {
+        title: "Gaurav Ghelani — Industry Leader & Mentor Profile",
+        publisher: "LinkedIn",
+        url: "https://www.linkedin.com/in/gaurav-ghelani-657b47a/",
+        author: "Gaurav Ghelani",
+        publishedDate: "2025",
+        accessedDate: "2026-10-04"
+      },
+      {
+        title: "Technocrats Group of Institutions (TIT Bhopal) Official Profile",
+        publisher: "TIT Group of Institutions",
+        url: "https://www.linkedin.com/school/technocrats-group-of-institutions-bhopal/",
+        author: "TIT Group of Institutions",
+        publishedDate: "2025",
+        accessedDate: "2026-10-04"
+      }
+    ],
+    faqs: [
+      {
+        question: "What does the KYC framework mean in Gaurav Ghelani's session?",
+        answer: "In Gaurav Ghelani's session, KYC stands for Knowledge (mastering fundamental principles), Your Skills (recognizing personal competencies and strengths), and Communication (effectively expressing thoughts and technical solutions)."
+      },
+      {
+        question: "What does the SMART framework stand for in professional development?",
+        answer: "SMART represents Skills (relentless learning), Mindset (openness to challenges), Attitude (positive and responsible demeanor), Relationships (cultivating authentic human connections), and Take Ownership (assuming personal responsibility for work and growth)."
+      },
+      {
+        question: "Why is communication as important as technical knowledge for software engineers?",
+        answer: "Because modern software is built collaboratively in teams. Having deep technical knowledge is ineffective if you cannot explain trade-offs to product managers, document system designs clearly, or listen actively to user needs."
+      }
+    ],
+    headings: [
+      { id: "beyond-the-classroom-the-academic-bridge", text: "Beyond the Classroom: Connecting Academics to Industry", level: 2 },
+      { id: "the-kyc-framework-knowledge-skills-communication", text: "The KYC Framework: Knowledge, Your Skills, and Communication", level: 2 },
+      { id: "the-smart-blueprint-for-professional-growth", text: "The SMART Blueprint for Lifelong Career Growth", level: 2 },
+      { id: "session-felicitation-and-tit-leadership", text: "Felicitating Gaurav Ghelani at TIT Group of Institutions", level: 2 },
+      { id: "the-road-ahead-growth-mindset", text: "Key Takeaways for Future Software Engineers", level: 2 },
+      { id: "verified-connections-and-hashtags", text: "Verified Connections & Mentions", level: 2 }
+    ],
+    contentHtml: `
+      <section id="beyond-the-classroom-the-academic-bridge">
+        <p class="article-lead">
+          A truly valuable session delivers lessons that extend far beyond classroom walls. I recently had the privilege of attending an insightful masterclass conducted by <a href="https://www.linkedin.com/in/gaurav-ghelani-657b47a/" target="_blank" rel="noopener noreferrer" class="source-link"><strong>Gaurav Ghelani Sir</strong></a> at <a href="https://www.linkedin.com/school/technocrats-group-of-institutions-bhopal/" target="_blank" rel="noopener noreferrer" class="source-link"><strong>TIT Group of Institutions</strong></a>.
+        </p>
+
+        <p>
+          What resonated most deeply with me was how fluidly the discussion connected our day-to-day academic journey with the concrete skills, psychological readiness, and behavioral maturity required in the professional software engineering landscape.
+        </p>
+
+        <p>
+          Two powerful mental models from the session particularly stood out: <strong>KYC</strong> and <strong>SMART</strong>.
+        </p>
+      </section>
+
+      <section id="the-kyc-framework-knowledge-skills-communication">
+        <h2>The KYC Framework: Knowledge, Your Skills, and Communication</h2>
+        <p>
+          While finance and banking utilize "KYC" to mean <em>Know Your Customer</em>, Gaurav Ghelani Sir re-anchored this acronym into an indispensable self-audit tool for student engineers:
+        </p>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin: 24px 0;">
+          <div style="padding: 20px; background-color: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-md);">
+            <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
+              <span style="display: inline-block; width: 10px; height: 10px; border-radius: 50%; background-color: var(--accent-primary);"></span>
+              <h3 style="margin: 0; font-size: 1.1rem;">🔹 K — Knowledge</h3>
+            </div>
+            <p style="margin: 0; font-size: 0.92rem; color: var(--text-secondary); line-height: 1.6;">
+              Understanding theoretical computer science, algorithms, system design, and the architectural principles of our domain.
+            </p>
+          </div>
+
+          <div style="padding: 20px; background-color: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-md);">
+            <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
+              <span style="display: inline-block; width: 10px; height: 10px; border-radius: 50%; background-color: var(--accent-secondary);"></span>
+              <h3 style="margin: 0; font-size: 1.1rem;">🔹 Y — Your Skills</h3>
+            </div>
+            <p style="margin: 0; font-size: 0.92rem; color: var(--text-secondary); line-height: 1.6;">
+              Identifying unique strengths, hands-on tool proficiencies, coding agility, and actively working to turn weaknesses into competencies.
+            </p>
+          </div>
+
+          <div style="padding: 20px; background-color: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-md);">
+            <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
+              <span style="display: inline-block; width: 10px; height: 10px; border-radius: 50%; background-color: var(--accent-warm);"></span>
+              <h3 style="margin: 0; font-size: 1.1rem;">🔹 C — Communication</h3>
+            </div>
+            <p style="margin: 0; font-size: 0.92rem; color: var(--text-secondary); line-height: 1.6;">
+              Articulating logic cleanly, writing precise documentation, active listening, and collaborating across multidisciplinary teams.
+            </p>
+          </div>
+        </div>
+
+        <div style="margin: 24px 0; padding: 22px; background-color: var(--bg-surface); border-left: 4px solid var(--accent-primary); border-radius: var(--radius-sm); box-shadow: var(--shadow-sm);">
+          <p style="margin: 0; font-size: 1.05rem; font-style: italic; color: var(--text-primary); line-height: 1.7;">
+            "Having technical knowledge is just the beginning. We must understand our own strengths, continuously refine our skills, and most importantly, communicate our thoughts effectively. No matter how deep our knowledge is, being able to express and apply it is what creates real impact."
+          </p>
+        </div>
+      </section>
+
+      <section id="the-smart-blueprint-for-professional-growth">
+        <h2>The SMART Blueprint for Lifelong Career Growth</h2>
+        <p>
+          The second concept—<strong>SMART</strong>—provided an expansive, holistic perspective on career sustainability:
+        </p>
+
+        <div style="display: grid; grid-template-columns: 1fr; gap: 14px; margin: 24px 0;">
+          <div style="padding: 16px 20px; background-color: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); display: flex; align-items: flex-start; gap: 14px;">
+            <strong style="color: var(--accent-primary); font-size: 1.15rem; min-width: 32px;">S</strong>
+            <div>
+              <h4 style="margin: 0 0 4px 0; font-size: 1rem;">Skills</h4>
+              <p style="margin: 0; font-size: 0.92rem; color: var(--text-secondary); line-height: 1.55;">
+                Never allow your skillset to stagnate. Keep learning, experimenting with emerging stacks, and sharpening your craft daily.
+              </p>
+            </div>
+          </div>
+
+          <div style="padding: 16px 20px; background-color: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); display: flex; align-items: flex-start; gap: 14px;">
+            <strong style="color: var(--accent-secondary); font-size: 1.15rem; min-width: 32px;">M</strong>
+            <div>
+              <h4 style="margin: 0 0 4px 0; font-size: 1rem;">Mindset</h4>
+              <p style="margin: 0; font-size: 0.92rem; color: var(--text-secondary); line-height: 1.55;">
+                Be open to steep challenges, ambiguous requirements, and unfamiliar technologies. View obstacles as opportunities for rapid cognitive growth.
+              </p>
+            </div>
+          </div>
+
+          <div style="padding: 16px 20px; background-color: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); display: flex; align-items: flex-start; gap: 14px;">
+            <strong style="color: var(--accent-warm); font-size: 1.15rem; min-width: 32px;">A</strong>
+            <div>
+              <h4 style="margin: 0 0 4px 0; font-size: 1rem;">Attitude</h4>
+              <p style="margin: 0; font-size: 0.92rem; color: var(--text-secondary); line-height: 1.55;">
+                Approach difficult situations with a constructive, solution-oriented demeanor. A resilient attitude turns team friction into cohesion.
+              </p>
+            </div>
+          </div>
+
+          <div style="padding: 16px 20px; background-color: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); display: flex; align-items: flex-start; gap: 14px;">
+            <strong style="color: var(--accent-emerald); font-size: 1.15rem; min-width: 32px;">R</strong>
+            <div>
+              <h4 style="margin: 0 0 4px 0; font-size: 1rem;">Relationships</h4>
+              <p style="margin: 0; font-size: 0.92rem; color: var(--text-secondary); line-height: 1.55;">
+                Build genuine, supportive human connections. Learn with humility from mentors, peers, and contributors across the open-source community.
+              </p>
+            </div>
+          </div>
+
+          <div style="padding: 16px 20px; background-color: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); display: flex; align-items: flex-start; gap: 14px;">
+            <strong style="color: var(--accent-primary); font-size: 1.15rem; min-width: 32px;">T</strong>
+            <div>
+              <h4 style="margin: 0 0 4px 0; font-size: 1rem;">Take Ownership</h4>
+              <p style="margin: 0; font-size: 0.92rem; color: var(--text-secondary); line-height: 1.55;">
+                Take complete responsibility for your code, your actions, and your personal growth. True leadership begins with self-accountability.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="session-felicitation-and-tit-leadership">
+        <h2>Felicitating Gaurav Ghelani at TIT Group of Institutions</h2>
+        <p>
+          A memorable highlight from the session was the felicitation ceremony honoring Gaurav Ghelani Sir for dedicating his time and expertise to guide our student body:
+        </p>
+
+        <figure style="margin: 28px 0; border: 1px solid var(--border-light); border-radius: var(--radius-md); overflow: hidden; background-color: var(--bg-surface); box-shadow: var(--shadow-sm);">
+          <img
+            src="/gaurav-ghelani-tit-session.png"
+            alt="Gaurav Ghelani Sir receiving a floral bouquet on stage at TIT Group of Institutions, Bhopal"
+            style="width: 100%; height: auto; display: block; object-fit: cover;"
+          />
+          <figcaption style="padding: 14px 18px; font-size: 0.88rem; color: var(--text-secondary); background-color: var(--bg-secondary); border-top: 1px solid var(--border-light); line-height: 1.5;">
+            <strong>Stage Felicitation:</strong> Industry leader Gaurav Ghelani Sir welcomed with a floral bouquet by faculty members on stage at TIT Group of Institutions, Bhopal, with the backdrop displaying <em>"TIT Welcomes Gaurav Ghelani"</em>.
+          </figcaption>
+        </figure>
+
+        <p>
+          I am immensely grateful to <a href="https://www.linkedin.com/school/technocrats-group-of-institutions-bhopal/" target="_blank" rel="noopener noreferrer" class="source-link"><strong>TIT Group of Institutions</strong></a> for consistently orchestrating high-caliber forums where students gain exposure to firsthand industry wisdom.
+        </p>
+      </section>
+
+      <section id="the-road-ahead-growth-mindset">
+        <h2>Key Takeaways for Future Software Engineers</h2>
+        <p>
+          As I prepare for my upcoming transition into professional engineering, the single most profound takeaway is that <strong>career growth is not solely about what we know</strong>.
+        </p>
+        <p>
+          It is equally governed by <strong>how we think</strong>, <strong>how we communicate</strong>, <strong>how we interact with others</strong>, and <strong>our willingness to take complete ownership</strong>.
+        </p>
+
+        <p>
+          Thank you, <a href="https://www.linkedin.com/in/gaurav-ghelani-657b47a/" target="_blank" rel="noopener noreferrer" class="source-link"><strong>Gaurav Ghelani Sir</strong></a>, for sharing these timeless insights and giving us a perspective that we will proudly carry forward far beyond our college days.
+        </p>
+      </section>
+
+      <section id="verified-connections-and-hashtags">
+        <h2>Verified Connections &amp; Mentions</h2>
+        <div style="margin: 24px 0; padding: 24px; background-color: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-md); display: flex; flex-direction: column; gap: 16px;">
+          <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+            <a
+              href="https://www.linkedin.com/in/gaurav-ghelani-657b47a/"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="social-link-pill"
+              style="background-color: var(--bg-secondary); padding: 8px 16px;"
+            >
+              <span>Connect with Gaurav Ghelani Sir</span>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+            </a>
+
+            <a
+              href="https://www.linkedin.com/school/technocrats-group-of-institutions-bhopal/"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="social-link-pill"
+              style="background-color: var(--bg-secondary); padding: 8px 16px;"
+            >
+              <span>TIT Group of Institutions</span>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+            </a>
+          </div>
+
+          <div style="display: flex; flex-wrap: wrap; gap: 8px; padding-top: 12px; border-top: 1px solid var(--border-light);">
+            <span class="topic-tag">#Learning</span>
+            <span class="topic-tag">#ProfessionalGrowth</span>
+            <span class="topic-tag">#CareerDevelopment</span>
+            <span class="topic-tag">#StudentLife</span>
+            <span class="topic-tag">#CommunicationSkills</span>
+            <span class="topic-tag">#Mindset</span>
+            <span class="topic-tag">#Technocrats</span>
+            <span class="topic-tag">#IndustryInsights</span>
+          </div>
+        </div>
+      </section>
+    `,
+    seo: {
+      metaTitle: "Lessons Beyond the Classroom: KYC & SMART Frameworks with Gaurav Ghelani | Srijan Prasad",
+      metaDescription: "Connecting academic computer science with enterprise reality: deconstructing Gaurav Ghelani's KYC and SMART frameworks at TIT Group of Institutions.",
+      robots: "index, follow"
+    }
   }
 ];
 
@@ -1610,6 +1886,15 @@ export function getArticleBySlug(slug: string): Article | undefined {
   ) {
     return articlesData.find(
       (a) => a.slug === "the-asymmetry-of-model-distillation-why-openai-banned-pewdiepie"
+    );
+  }
+  if (
+    slug === "gaurav-ghelani-session" ||
+    slug === "kyc-smart-frameworks" ||
+    slug === "gaurav-ghelani-tit"
+  ) {
+    return articlesData.find(
+      (a) => a.slug === "lessons-beyond-the-classroom-kyc-smart-frameworks-gaurav-ghelani-tit"
     );
   }
   return articlesData.find((a) => a.slug === slug);

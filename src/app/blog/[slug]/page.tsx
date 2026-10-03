@@ -32,7 +32,10 @@ export async function generateStaticParams() {
     { slug: "capgemini-tit-industry-interaction" },
     { slug: "pewdiepie-openai-ban" },
     { slug: "pewdiepie-local-ai" },
-    { slug: "openai-pewdiepie-distillation" }
+    { slug: "openai-pewdiepie-distillation" },
+    { slug: "gaurav-ghelani-session" },
+    { slug: "kyc-smart-frameworks" },
+    { slug: "gaurav-ghelani-tit" }
   ];
 
   return [...primarySlugs, ...aliasSlugs];
