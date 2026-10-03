@@ -1061,6 +1061,7 @@ export const articlesData: Article[] = [
       { id: "gratitude-to-capgemini-leadership", text: "Gratitude to the Capgemini Leadership Team", level: 2 },
       { id: "empowering-students-at-tit", text: "Empowering Students at TIT Group of Institutions", level: 2 },
       { id: "the-road-ahead-final-year-reflection", text: "The Road Ahead: Building an Enduring Mindset", level: 2 },
+      { id: "event-photo-gallery", text: "Official Event Photo Gallery & Highlights", level: 2 },
       { id: "original-linkedin-post-and-discussion", text: "Original LinkedIn Post & Community Discussion", level: 2 }
     ],
     contentHtml: `
@@ -1222,6 +1223,50 @@ export const articlesData: Article[] = [
         <p>
           Taking back valuable lessons, fresh motivation, and a clearer perspective on what it means to become truly industry-ready. 🚀
         </p>
+      </section>
+
+      <section id="event-photo-gallery">
+        <h2>Official Event Photo Gallery &amp; Highlights</h2>
+        <p>
+          Photographs capturing the high-energy student turnout, keynote presentation, and executive panel discussions during the on-campus interaction at TIT Group of Institutions:
+        </p>
+
+        <!-- Grand Auditorium Photo -->
+        <figure style="margin: 28px 0; border: 1px solid var(--border-light); border-radius: var(--radius-md); overflow: hidden; background-color: var(--bg-surface); box-shadow: var(--shadow-sm);">
+          <img
+            src="/capgemini-tit-group-photo-auditorium.jpg"
+            alt="Capgemini executive leadership delegation standing on stage with faculty and final-year CSE students filling the auditorium at TIT Group of Institutions, Bhopal"
+            style="width: 100%; height: auto; display: block; object-fit: cover;"
+          />
+          <figcaption style="padding: 14px 18px; font-size: 0.88rem; color: var(--text-secondary); background-color: var(--bg-secondary); border-top: 1px solid var(--border-light); line-height: 1.5;">
+            <strong>Grand Auditorium Gathering:</strong> The Capgemini executive leadership delegation standing on stage alongside institute faculty, with final-year Computer Science &amp; Engineering students filling the auditorium at TIT Group of Institutions, Bhopal.
+          </figcaption>
+        </figure>
+
+        <!-- Two Column Gallery: Keynote & Panel -->
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; margin: 24px 0;">
+          <figure style="margin: 0; border: 1px solid var(--border-light); border-radius: var(--radius-md); overflow: hidden; background-color: var(--bg-surface); box-shadow: var(--shadow-sm); display: flex; flex-direction: column;">
+            <img
+              src="/capgemini-tit-altamash-qureshi-keynote.jpg"
+              alt="Altamash Qureshi Sir delivering the keynote address at the podium at TIT Technocrats"
+              style="width: 100%; height: 260px; object-fit: cover; display: block;"
+            />
+            <figcaption style="padding: 14px 18px; font-size: 0.86rem; color: var(--text-secondary); background-color: var(--bg-secondary); border-top: 1px solid var(--border-light); line-height: 1.5; flex-grow: 1;">
+              <strong>Keynote Address:</strong> Altamash Qureshi Sir (Vice President, South Central Europe PBS India Leader at Capgemini) addressing students from the podium on enterprise ERP transformations, delivery excellence, and lifelong adaptability.
+            </figcaption>
+          </figure>
+
+          <figure style="margin: 0; border: 1px solid var(--border-light); border-radius: var(--radius-md); overflow: hidden; background-color: var(--bg-surface); box-shadow: var(--shadow-sm); display: flex; flex-direction: column;">
+            <img
+              src="/capgemini-tit-leadership-panel.jpg"
+              alt="Capgemini leadership panel on stage during the session at TIT Group of Institutions"
+              style="width: 100%; height: 260px; object-fit: cover; display: block;"
+            />
+            <figcaption style="padding: 14px 18px; font-size: 0.86rem; color: var(--text-secondary); background-color: var(--bg-secondary); border-top: 1px solid var(--border-light); line-height: 1.5; flex-grow: 1;">
+              <strong>Executive Leadership Panel:</strong> Senior leaders Altamash Qureshi, Punit Santani, Amit Nayak, Deevith Rao, and Vaibhav Deshpande seated on stage in front of the digital backdrop, engaging in interactive Q&amp;A with students.
+            </figcaption>
+          </figure>
+        </div>
       </section>
 
       <section id="original-linkedin-post-and-discussion">
